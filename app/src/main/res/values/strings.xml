@@ -1,0 +1,61 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Master-Recipes</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_item_description">Oops!\nNo items in the inventory.\nTap + to add.</string>
+    <string name="edit_item_title">Edit Item</string>
+    <string name="item">Item</string>
+    <string name="item_detail_title">Item Details</string>
+    <string name="item_entry_title">Add Item</string>
+    <string name="item_name_req">Item Name*</string>
+    <string name="item_price_req">Item Price*</string>
+    <string name="no">No</string>
+    <string name="price">Price</string>
+    <string name="quantity_in_stock">Quantity in stock</string>
+    <string name="in_stock">%d in stock</string>
+    <string name="quantity_req">You like me</string>
+    <string name="save_action">Save</string>
+    <string name="sell">Sell</string>
+    <string name="get1">Login</string>
+    <string name="get2">Login</string>
+    <string name="get3">Login</string>
+    <string name="get">Login</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+    <string name="cotopaxi">https://heyzine.com/flip-book/1c1735f262.html</string>
+    <string name="cotopaxi1"> \t  Por favor enviar su pedido.</string>
+    <string name="cotopaxi2"> \t\t    a los telefonos:</string>
+    <string name="cotopaxi3">\t\t 0999812880 - 0960096928</string>
+    <string name="cotopaxi4">https://form.jotform.com/232649290106657</string>
+    <string name="cotopaxi5">0999812880 - 0960096928</string>
+    <string name="new_cupcake_order">New Cupcake Order</string>
+
+
+
+    <string name="item1">Title:  </string>
+    <string name="item2">Preparedness: \n\n </string>
+    <string name="item3">Ingredient:  </string>
+
+    <string name="refresh">Refresh</string>
+    <string name="refresh1">get_data</string>
+    <string name="item_name_id">Item Id</string>
+</resources>
+
+
